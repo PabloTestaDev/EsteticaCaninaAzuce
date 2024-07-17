@@ -1,0 +1,14 @@
+C:\Users\cucho\OneDrive\Escritorio\GitHub Projects\AzucenaEsteticaCanina\src\main\java\com\mycompany\azucenaesteticacanina\AzucenaEsteticaCanina.java
+C:\Users\cucho\OneDrive\Escritorio\GitHub Projects\AzucenaEsteticaCanina\src\main\java\com\mycompany\azucenaesteticacanina\IGU\CargaDatos.java
+C:\Users\cucho\OneDrive\Escritorio\GitHub Projects\AzucenaEsteticaCanina\src\main\java\com\mycompany\azucenaesteticacanina\IGU\ModificarDatos.java
+C:\Users\cucho\OneDrive\Escritorio\GitHub Projects\AzucenaEsteticaCanina\src\main\java\com\mycompany\azucenaesteticacanina\IGU\Principal.java
+C:\Users\cucho\OneDrive\Escritorio\GitHub Projects\AzucenaEsteticaCanina\src\main\java\com\mycompany\azucenaesteticacanina\IGU\VerDatos.java
+C:\Users\cucho\OneDrive\Escritorio\GitHub Projects\AzucenaEsteticaCanina\src\main\java\com\mycompany\azucenaesteticacanina\logica\Controladora.java
+C:\Users\cucho\OneDrive\Escritorio\GitHub Projects\AzucenaEsteticaCanina\src\main\java\com\mycompany\azucenaesteticacanina\logica\Mascota.java
+C:\Users\cucho\OneDrive\Escritorio\GitHub Projects\AzucenaEsteticaCanina\src\main\java\com\mycompany\azucenaesteticacanina\logica\Tutor.java
+C:\Users\cucho\OneDrive\Escritorio\GitHub Projects\AzucenaEsteticaCanina\src\main\java\com\mycompany\azucenaesteticacanina\persistencia\ControladoraPersistencia.java
+C:\Users\cucho\OneDrive\Escritorio\GitHub Projects\AzucenaEsteticaCanina\src\main\java\com\mycompany\azucenaesteticacanina\persistencia\exceptions\IllegalOrphanException.java
+C:\Users\cucho\OneDrive\Escritorio\GitHub Projects\AzucenaEsteticaCanina\src\main\java\com\mycompany\azucenaesteticacanina\persistencia\exceptions\NonexistentEntityException.java
+C:\Users\cucho\OneDrive\Escritorio\GitHub Projects\AzucenaEsteticaCanina\src\main\java\com\mycompany\azucenaesteticacanina\persistencia\exceptions\PreexistingEntityException.java
+C:\Users\cucho\OneDrive\Escritorio\GitHub Projects\AzucenaEsteticaCanina\src\main\java\com\mycompany\azucenaesteticacanina\persistencia\MascotaJpaController.java
+C:\Users\cucho\OneDrive\Escritorio\GitHub Projects\AzucenaEsteticaCanina\src\main\java\com\mycompany\azucenaesteticacanina\persistencia\TutorJpaController.java
